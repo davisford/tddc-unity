@@ -1,25 +1,26 @@
 {
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"make"
+			],
+			"name": "Make"
+		}
+	],
 	"folders":
 	[
 		{
 			"path": "/Users/davisford/git/tddc-unity"
 		}
 	],
-  "settings":
-  {
-    "tab_size": 4,
-    "sublimeclang_options":
-    [
-      // FIXME: use relative path for SublimeCLang here
-      "-I/Users/davisford/git/tddc-unity/**"
-      //"-I${this-file-path}/**"
-    ]
-  },
-  "build_systems":
-  [
-    {
-      "name": "Make",
-      "cmd": ["make"]
-    }
-  ]
+	"settings":
+	{
+		"sublimeclang_options":
+		[
+			"-I/Users/davisford/git/tddc-unity/**"
+		],
+		"tab_size": 4
+	}
 }
