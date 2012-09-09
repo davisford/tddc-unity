@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"putchar(int)	int"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"form",
+				"format_binary"
+			],
+			[
+				"ed-",
+				"ed-toolbar-accordion"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"row",
+				"row-fluid"
+			],
+			[
+				"accessTok",
+				"accessTokExtra"
+			],
+			[
+				"side",
+				"sidebarView"
+			],
+			[
+				"curr",
+				"currentTarget"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"pu",
+				"pubStatus"
+			],
+			[
+				"b",
+				"btn-primary"
+			],
+			[
+				"tw",
+				"twelveHourClock"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"publis",
+				"publishDaisyStatus"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"dais",
+				"daisiesTable"
+			],
+			[
+				"valid",
+				"validatePassword"
+			],
+			[
+				"con",
+				"consumerSecret"
+			],
+			[
+				"verif",
+				"verifyPassword"
+			],
+			[
+				"acces",
+				"accessTokSecret"
+			],
+			[
+				"twi",
+				"twitterUser"
+			],
+			[
+				"ass",
+				"assignTwitterDataToUser"
+			],
+			[
+				"acc",
+				"accessTokExtra"
+			],
+			[
+				"goo",
+				"googleUser"
+			],
+			[
+				"mongoo",
+				"mongooseAuth"
+			],
+			[
+				"plugi",
+				"plugin	plugin (method extras)"
+			],
+			[
+				"fa",
+				"fbUserMetadata"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"Mo",
+				"Models"
+			],
+			[
+				"mess",
+				"messageTooLong"
+			],
+			[
+				"ui-dialog-",
+				"ui-dialog-content"
+			],
+			[
+				"min",
+				"minLength"
+			],
+			[
+				"befor",
+				"beforeEach"
+			],
+			[
+				"t",
+				"thead	Tag"
+			],
+			[
+				"endp",
+				"endpointStyle"
+			],
+			[
+				"back",
+				"background	background-image: none"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tddc-unity.sublime-project",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"subli",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"JS",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"js",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"JSL",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"jsl",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"pkg",
+				"Package Control: Install Package"
+			],
+			[
+				"jslin",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"jsline",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git:pul",
+				"Git: Pull"
+			],
+			[
+				"git:pus",
+				"Git: Push"
+			],
+			[
+				"git:cm",
+				"Git: Commit"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git:ad",
+				"Git: Add Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:st",
+				"Git: Status"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 150.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davisford/git/tddc-unity/tddc-unity.submlime-project",
+		"/Users/davisford/Downloads/code/unity/mocks/tddc-unity.sublime-project",
+		"/Users/davisford/git/daisycentral/package.json",
+		"/Users/davisford/git/daisycentral/server/models/user.js",
+		"/tmp/subl stdin 5UxnAx.txt",
+		"/Users/davisford/git/daisycentral/git",
+		"/Users/davisford/git/daisycentral/diff",
+		"/Users/davisford/Applications/eclipse/Eclipse.app/Contents/MacOS/eclipse.ini",
+		"/Users/davisford/git/dw-wifi-webapp/javascripts/editor.js",
+		"/Users/davisford/git/daisycentral/client/views/layout.jade",
+		"/Users/davisford/git/daisycentral/client/code/shared/models.js",
+		"/Users/davisford/git/daisycentral/client/code/app/devices.js",
+		"/Users/davisford/git/daisycentral/test/daisy-session.test.js",
+		"/Users/davisford/git/daisycentral/server/app/daisy-session.js",
+		"/Users/davisford/Library/Application Support/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/Users/davisford/git/daisycentral/client/code/shared/widgets.js",
+		"/Users/davisford/git/daisycentral/client/code/shared/plumbing.js",
+		"/Users/davisford/git/daisycentral/client/code/app/rules.js",
+		"/Users/davisford/git/daisycentral/client/code/app/router.js",
+		"/Users/davisford/git/daisycentral/client/code/app/login.js",
+		"/Users/davisford/git/daisycentral/client/code/app/entry.js",
+		"/Users/davisford/git/daisycentral/client/code/admin/router.js",
+		"/Users/davisford/git/daisycentral/client/code/admin/entry.js",
+		"/Users/davisford/git/daisycentral/client/code/admin/devices.js",
+		"/Users/davisford/git/daisycentral/server/rpc/login.js",
+		"/Users/davisford/git/daisycentral/server/rpc/sensors.js",
+		"/Users/davisford/git/daisycentral/server.js",
+		"/Users/davisford/git/daisycentral/test/user.test.js",
+		"/Users/davisford/git/daisycentral/test/sensordata.test.js",
+		"/Users/davisford/git/daisycentral/test/daisies.test.js",
+		"/Users/davisford/git/daisycentral/server/rpc/devices.js",
+		"/Users/davisford/git/daisycentral/server/rpc/admin/devices.js",
+		"/Users/davisford/git/daisycentral/server/models/sensordata.js",
+		"/Users/davisford/git/daisycentral/server/models/daisies.js",
+		"/Users/davisford/git/daisycentral/server/models/plugins/lastmodified.js",
+		"/Users/davisford/git/daisycentral/server/middleware/security.js",
+		"/Users/davisford/git/daisycentral/server/app/daisy-server.js",
+		"/Users/davisford/git/daisycentral/server/app/conf.js",
+		"/Users/davisford/git/daisycentral/server/app/channels.js",
+		"/Users/davisford/Library/Application Support/Sublime Text 2/Packages/User/sublime-jslint.sublime-settings",
+		"/Users/davisford/git/daisycentral/LICENSE",
+		"/Users/davisford/git/daisycentral/README.md",
+		"/Users/davisford/git/dw-wifi-webapp/editor.html",
+		"/Users/davisford/git/dw-wifi-webapp/stylesheets/editor.css",
+		"/Users/davisford/git/daisycentral/client/templates/rules/foobar.jade",
+		"/Users/davisford/git/daisycentral/client/views/app.jade",
+		"/Users/davisford/git/daisycentral/client/css/app.styl",
+		"/Users/davisford/git/daisycentral/client/css/libs/3.jquery-ui-1.8.20-smoothness.css",
+		"/Users/davisford/git/daisycentral/client/templates/rules/widget.jade",
+		"/Users/davisford/git/daisycentral/client/templates/devices/flot-axes.jade",
+		"/Users/davisford/git/daisycentral/client/templates/devices/register-false.jade",
+		"/Users/davisford/git/daisycentral/client/templates/devices/tooltip.jade",
+		"/Users/davisford/git/c-programming/bubble1.c",
+		"/Users/davisford/git/c-programming/bubble2.c",
+		"/Users/davisford/git/c-programming/bubble3.c",
+		"/Users/davisford/git/c-programming/bubble4.c",
+		"/Users/davisford/git/c-programming/bubble5.c",
+		"/Users/davisford/git/c-programming/bubble6.c",
+		"/Users/davisford/git/c-programming/prog7.c",
+		"/Users/davisford/git/c-programming/prog8.c",
+		"/Users/davisford/git/c-programming/linkedlist.c",
+		"/Users/davisford/git/c-programming/prog5.c",
+		"/Users/davisford/git/c-programming/prog4.c",
+		"/Users/davisford/git/c-programming/prog1.c",
+		"/Users/davisford/git/c-programming/prog2.c",
+		"/Users/davisford/git/c-programming/prog3.c",
+		"/tmp/subl stdin IsYRnB.txt",
+		"/Users/davisford/.profile",
+		"/Users/davisford/git/ss-demo/node_modules/socketstream/lib/websocket/transports/socketio/index.js",
+		"/Users/davisford/git/ss-demo/.gitignore",
+		"/Users/davisford/git/ss-demo/app.js",
+		"/Users/davisford/git/ss-demo/package.json",
+		"/Users/davisford/git/daisycentral/node_modules/socketstream/lib/session/channels.js",
+		"/Users/davisford/git/daisycentral/node_modules/socketstream/lib/session/index.js",
+		"/Users/davisford/git/daisycentral/node_modules/socketstream/lib/http/index.js",
+		"/Users/davisford/git/daisycentral/node_modules/socketstream/lib/http/router.js",
+		"/Users/davisford/git/ss-demo/server/middleware/security.js",
+		"/Users/davisford/git/ss-demo/server/rpc/demo.js",
+		"/Users/davisford/git/daisycentral/.gitignore",
+		"/Users/davisford/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/davisford/git/daisycentral/test/mocha.opts",
+		"/Users/davisford/git/daisycentral/test/daisy-session-tests.js",
+		"/Users/davisford/git/daisycentral/test/foo.test.js",
+		"/Users/davisford/git/daisycentral/server/app/foo.js",
+		"/Users/davisford/git/daisycentral/client/code/system/datatables-bootstrap.js",
+		"/Users/davisford/git/daisycentral/Makefile",
+		"/Users/davisford/git/daisycentral/client/code/system/datatables.js",
+		"/Users/davisford/git/daisycentral/client/code/app/models.js",
+		"/Users/davisford/git/linode-proxy/conf.json",
+		"/Users/davisford/git/daisyworks.com/app.js",
+		"/Users/davisford/git/daisyworks.com/public/daisyworks.com.js",
+		"/Users/davisford/git/daisyworks.com/public/live.daisyworks.com.js",
+		"/Users/davisford/git/daisyworks.com/conf.js",
+		"/Users/davisford/git/zenoconsulting.biz/app.js",
+		"/Users/davisford/git/daisyworks.com/public/live.daisyworks.com/editor.html",
+		"/Users/davisford/git/zenoconsulting.biz/views/index.jade",
+		"/Users/davisford/git/zenoconsulting.biz/routes/index.js",
+		"/Users/davisford/git/zenoconsulting.biz/views/layout.jade",
+		"/Users/davisford/git/zenoconsulting.biz/conf.js",
+		"/Users/davisford/git/daisycentral/client/code/app/models/models.js",
+		"/Users/davisford/git/daisycentral/client/views/admin.jade",
+		"/Users/davisford/git/daisycentral/client/views/login.jade",
+		"/Users/davisford/git/daisycentral/client/templates/devices/register-true.jade",
+		"/Users/davisford/git/daisycentral/client/templates/login/error.jade",
+		"/Users/davisford/git/daisycentral/client/code/libs/094.jquery.flot.stack.js",
+		"/Users/davisford/git/daisycentral/client/code/libs/093.jquery.flot.selection.js",
+		"/Users/davisford/git/daisycentral/client/code/libs/095.jquery.flot.time.js",
+		"/Users/davisford/git/daisycentral/client/code/libs/092.jquery.flot.resize.js",
+		"/Users/davisford/git/daisycentral/client/code/libs/091.jquery.flot.navigate.js",
+		"/Users/davisford/git/daisycentral/server/app/daisyServer.js",
+		"/Users/davisford/git/daisycentral/server/app/daisy-conversation.js",
+		"/Users/davisford/git/daisycentral/proto.js",
+		"/Users/davisford/git/daisycentral/daisy-conversation.js",
+		"/Users/davisford/git/daisycentral/server/daisy-command.js",
+		"/Users/davisford/git/daisycentral/client/code/libs/110.jquery.flot.selection.js",
+		"/Users/davisford/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/davisford/git/dw-wifi-webapp/index.html",
+		"/Users/davisford/git/dw-wifi-webapp/javascripts/app.js",
+		"/Users/davisford/git/daisycentral/client/code/app/home.js",
+		"/Users/davisford/git/daisycentral/client/code/app/profile.js",
+		"/Users/davisford/Downloads/DataTables-1.9.1/examples/examples_support/jquery.jeditable.js",
+		"/Users/davisford/git/daisycentral/client/templates/daisies/datatable.jade",
+		"/Users/davisford/git/daisycentral/client/code/admin/datatables.js",
+		"/Users/davisford/git/daisycentral/client/code/app/demo.js",
+		"/Users/davisford/git/daisycentral/client/templates/datatableDaisies.jade",
+		"/Users/davisford/git/daisycentral/server/rpc/auth.js",
+		"/Users/davisford/git/daisycentral/server/rpc/app.js",
+		"/Users/davisford/git/daisycentral/test/sensordata-tests.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ed-",
+			"emit",
+			"_timeout",
+			"callback",
+			"sessionTimeout",
+			"storeData",
+			"parseData",
+			"onData",
+			"_timeout",
+			"timeout",
+			"devicesContent",
+			"this",
+			"module",
+			")')[",
+			"daisy",
+			"auth",
+			"el",
+			"chart",
+			"tooltip",
+			"encrypted",
+			"listeners",
+			"0700",
+			"passport",
+			"absolute",
+			"console",
+			"jsPlumbConnection",
+			"trigger",
+			"floatingAnchorIndex",
+			"floatingConnections",
+			"sensors",
+			"page",
+			"jqmRouter",
+			"page",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tddc-unity.sublime-project",
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 455.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 171.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"daisycentral/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true
+}

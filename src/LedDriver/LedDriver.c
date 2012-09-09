@@ -3,7 +3,7 @@
 #include <stdbool.h>
 
 static uint16_t * ledsAddress;
-static uint16_t ledsImage;
+static uint16_t ledsImage; 
 
 enum { ALL_LEDS_ON = ~0, ALL_LEDS_OFF = ~ALL_LEDS_ON };
 
@@ -14,7 +14,7 @@ void LedDriver_Create(uint16_t * address)
 {
   ledsAddress = address;
   ledsImage = ALL_LEDS_OFF;
-  *ledsAddress = ledsImage;
+  *ledsAddress = ledsImage; 
 }
 
 ///
