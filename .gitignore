@@ -16,3 +16,4 @@ objs/
 *.a
 
 .DS_Store
+./LedDriver_tests
