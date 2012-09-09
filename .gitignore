@@ -17,3 +17,5 @@ objs/
 
 .DS_Store
 LedDriver_tests
+
+*.sublime-workspace
